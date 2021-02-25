@@ -1,0 +1,28 @@
+.head {
+	font-size: 70px;
+	color: #e80814;
+	font-variant: bold;
+	margin-right: 0px;
+	padding-left: 80px;
+}
+
+
+
+a {
+	size: 100px;
+	font-size: 50px;
+}
+.head2 {
+	color: orange;
+}
+.head3{
+	color: lime;
+}
+.head4 {
+  color: yellow;
+
+}
+.head5 {
+	color: blue;
+}
+
